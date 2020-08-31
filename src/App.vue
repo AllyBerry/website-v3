@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue Change to Youtube logo" src="./assets/ylogo.png">
+    <img alt="Vue logo" src="./assets/ylogo.png">
     <HelloWorld msg="Welcome to Your Favicon App"/>
   </div>
 </template>
